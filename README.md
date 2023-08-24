@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Moses
-- 
-- 🚀 Exploring the Realm of AI, Data Science, and Machine Learning! 🤖📊
-- 
+- 👋 Hi, I AM Moses
+  
+-🚀 Exploring the Realm of AI, Data Science, and Machine Learning! 🤖📊
+
 -🎓 Learning the ropes of artificial intelligence, diving deep into data science, and unraveling the mysteries of machine learning.
 
 -🔍 On a journey to understand patterns in data, create predictive models, and turn insights into impactful decisions.
